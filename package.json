@@ -10,7 +10,7 @@
     "@ant-design/icons-vue": "^6.0.1",
     "ant-design-vue": "^2.2.8",
     "axios": "^0.24.0",
-    "element-plus": "^1.2.0-beta.3",
+    "element-plus": "^2.2.9",
     "faker": "^5.5.3",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
